@@ -106,6 +106,7 @@
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="Content\NewSheet.css" />
     <Content Include="Global.asax" />
+    <Content Include="Images\Tottenham hotspurs 12.png" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
@@ -168,7 +169,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Images\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>
