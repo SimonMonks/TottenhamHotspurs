@@ -6,7 +6,7 @@
 
 /* unvisited link */
 a:link {
-    color: red;
+    color:lightblue;
 }
 
 /* visited link */
@@ -31,5 +31,5 @@ a:active {
 
 .p2 {
     font-family: 'Arial Nova';
-    color: red;
+    color: lightblue;
 }
