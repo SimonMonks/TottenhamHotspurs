@@ -16,7 +16,22 @@
     <title>@ViewBag.Tottenham</title>
 </head>
 <body>
+    <div class="row">
+        <div class="col-md-1">
+            <img src="~/Images/Tottenham hotspurs 12.png"  width="200" height="200"/>
+        </div>
+    </div>
     <div>
+        <div class="row">
+            <div class="col-md-6">
+                <nav>
+                    @Html.ActionLink("Home","Home","Home")
+                    @Html.ActionLink("Gallery","Gallery","Home")
+                    @Html.ActionLink("Histroy","History","Home")
+                    @Html.ActionLink("Video","Video","Home")
+                </nav>
+            </div>
+        </div>
         @RenderBody()
     </div>
 </body>
