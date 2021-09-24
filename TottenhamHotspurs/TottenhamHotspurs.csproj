@@ -106,6 +106,9 @@
     <Content Include="Content\bootstrap.rtl.min.css" />
     <Content Include="Content\NewSheet.css" />
     <Content Include="Global.asax" />
+    <Content Include="Images\Harry Kane 1.jpg" />
+    <Content Include="Images\Son 12.jpg" />
+    <Content Include="Images\Son1.jfif" />
     <Content Include="Images\Tottenham hotspurs 12.png" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
