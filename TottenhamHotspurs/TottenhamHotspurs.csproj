@@ -166,6 +166,7 @@
     <Content Include="Views\Home\Gallery.cshtml" />
     <Content Include="Views\Home\History.cshtml" />
     <Content Include="Views\Home\Video.cshtml" />
+    <Content Include="Views\Home\Squad.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

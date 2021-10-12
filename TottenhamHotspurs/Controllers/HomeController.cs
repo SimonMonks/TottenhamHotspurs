@@ -25,5 +25,9 @@ namespace TottenhamHotspurs.Controllers
         {
             return View();
         }
+        public ActionResult Squad()
+        {
+            return View();
+        }
     }
 }
